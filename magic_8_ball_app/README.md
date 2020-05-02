@@ -1,4 +1,4 @@
-# dice_app
+# magic_8_ball_app
 
 A new Flutter project.
 
@@ -14,6 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-The Ask Me Anything app is similar to the Dice App because they both used the same concept
-The AMA uses AnimatedContainer widget instead of Container widget
